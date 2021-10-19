@@ -55,3 +55,5 @@ suite('a boring test suite', () => {
     });
 
 });
+
+// Documentacion de Testy: https://github.com/ngarbezza/testy

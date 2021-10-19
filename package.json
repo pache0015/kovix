@@ -1,0 +1,22 @@
+{
+  "name": "kovix",
+  "version": "1.0.0",
+  "description": "ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx testy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pache0015/kovix.git"
+  },
+  "author": "Facundo Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pache0015/kovix/issues"
+  },
+  "homepage": "https://github.com/pache0015/kovix#readme",
+  "devDependencies": {
+    "@pmoo/testy": "^5.1.0"
+  }
+}
